@@ -169,9 +169,9 @@ python dashboard/app.py
 After launching, open your browser and navigate to:
 ```
 http://localhost:8080
-
-https://data-ingestion-pipeline.onrender.com
 ```
+URL :  https://data-ingestion-pipeline.onrender.com
+
 
 ### 📂 Database Migration & RAG Backfilling
 If you have run the pipeline and populated the SQLite cache, you can process raw XMLs, extract chunks, validate JSON schemas, and load them into your relational database:
