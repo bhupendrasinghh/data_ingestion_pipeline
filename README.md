@@ -169,6 +169,8 @@ python dashboard/app.py
 After launching, open your browser and navigate to:
 ```
 http://localhost:8080
+
+https://data-ingestion-pipeline.onrender.com
 ```
 
 ### 📂 Database Migration & RAG Backfilling
